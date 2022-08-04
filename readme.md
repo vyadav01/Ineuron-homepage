@@ -12,9 +12,9 @@ In this hackathon, we have to redesign [INeuron](https://ineuron.ai/) website's 
 
 **Note :** This project is not optimized for mobile yet.
 
-**[Live Project's netlify link](https://street-style-landing-page-project-01.netlify.app/ "Project link")**
+**[Live Project's netlify link](https://ineuron-site-homepage.netlify.app/ "Project link")**
 
-[![Project ScreenShot](./ineuron%20homepage.png)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+[![Project ScreenShot](./ineuron%20homepage.png)](https://ineuron-site-homepage.netlify.app/ "Project link")
 
 
-[![Badge](https://img.shields.io/badge/Hackathon-INeuron's%20Homepage-yellow)](https://street-style-landing-page-project-01.netlify.app/ "Project link")
+[![Badge](https://img.shields.io/badge/Hackathon-INeuron's%20Homepage-yellow)](https://ineuron-site-homepage.netlify.app/ "Project link")
